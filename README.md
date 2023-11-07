@@ -8,7 +8,7 @@ Ensure you have the necessary libraries installed to run the project. Use pip or
 ### 2. Load Data
 Load the dataset containing 10,000 domain names and their corresponding price labels (ranging from 1 to 5). You can use pandas or any suitable data loading library for this purpose.
 
-#### 3. Features Extraction
+### 3. Features Extraction
 Extract relevant features from the domain names. Features can include domain length, special characters, letters (both uppercase and lowercase), vowels, consonants, and numbers.
 Perform domain WHOIS queries to extract registration, expiration, and update dates as features.
 ### 4. Data Pre-processing
